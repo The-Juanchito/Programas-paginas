@@ -1,5 +1,7 @@
 # LISTA DE SISTEMAS OPERATIVOS
 
+*Primero que todo Rufus*
+*Link:* https://rufus.ie/es/
 ---
 
 ### 1. Windows 11 Pro Version 26H2 (64 bits)
