@@ -10,25 +10,32 @@
 
 ---
 
-### 2. PrimeOS 2.1.3 (Android para PC)
+### 2. TomexOS 11 Pro 25H2 (Windows Optimizado)
+* **Link de descarga:** [Descargar ISO de TomexOS 11 Pro](https://www.mediafire.com/file/s147nqeey22bhx2/TomexOS+11+25H2+Pro+V1.0+x64.iso/file)
+* **Contraseña:** `tomexyopti.la.rompen`
+* **Uso:** Modificación de Windows 11 optimizada para juegos y rendimiento.
+
+---
+
+### 3. PrimeOS 2.1.3 (Android para PC)
 * **Link de descarga:** [Descargar ISO de PrimeOS (64 bits)](https://sourceforge.net/projects/primeos/files/64-bit/PrimeOS-2.1.3-64-bit-20220719-BETA.iso/download)
 * **Página oficial:** [Proyecto PrimeOS en SourceForge](https://sourceforge.net/projects/primeos/)
 * **Uso:** Para instalar Android en computadoras de bajos recursos.
 
 ---
 
-### 3. Ubuntu 24.04 LTS (Linux)
+### 4. Ubuntu 24.04 LTS (Linux)
 * **Link de descarga:** [Descargar ISO de Ubuntu Desktop](https://ubuntu.com/download/desktop)
 * **Requisitos:** 4 GB RAM, 25 GB almacenamiento.
 
 ---
 
-### 4. Lubuntu 26.04 LTS (Linux Ligero)
+### 5. Lubuntu 26.04 LTS (Linux Ligero)
 * **Link de descarga:** [Descargar ISO de Lubuntu](https://lubuntu.me/downloads/)
 
 ---
 
-### 5. Kali Linux (Ciberseguridad)
+### 6. Kali Linux (Ciberseguridad)
 * **Link de descarga:** [Descargar ISO de Kali Linux](https://www.kali.org/get-kali/#kali-installer-images)
 
 ---
