@@ -10,32 +10,38 @@
 
 ---
 
-### 2. TomexOS 11 Pro 25H2 (Windows Optimizado)
+### 2. OptiOS 11 Pro Version 25H2 (Windows Optimizado)
+* **Link de descarga:** [Descargar ISO de OptiOS 11 Pro](https://www.mediafire.com/file/76ghzefpsa2o7si)
+* **Uso:** Sistema operativo Windows 11 modificado y optimizado para máximo rendimiento en juegos y PCs de bajos recursos.
+
+---
+
+### 3. TomexOS 11 Pro 25H2 (Windows Optimizado)
 * **Link de descarga:** [Descargar ISO de TomexOS 11 Pro](https://www.mediafire.com/file/s147nqeey22bhx2/TomexOS+11+25H2+Pro+V1.0+x64.iso/file)
 * **Contraseña:** `tomexyopti.la.rompen`
 * **Uso:** Modificación de Windows 11 optimizada para juegos y rendimiento.
 
 ---
 
-### 3. PrimeOS 2.1.3 (Android para PC)
+### 4. PrimeOS 2.1.3 (Android para PC)
 * **Link de descarga:** [Descargar ISO de PrimeOS (64 bits)](https://sourceforge.net/projects/primeos/files/64-bit/PrimeOS-2.1.3-64-bit-20220719-BETA.iso/download)
 * **Página oficial:** [Proyecto PrimeOS en SourceForge](https://sourceforge.net/projects/primeos/)
 * **Uso:** Para instalar Android en computadoras de bajos recursos.
 
 ---
 
-### 4. Ubuntu 24.04 LTS (Linux)
+### 5. Ubuntu 24.04 LTS (Linux)
 * **Link de descarga:** [Descargar ISO de Ubuntu Desktop](https://ubuntu.com/download/desktop)
 * **Requisitos:** 4 GB RAM, 25 GB almacenamiento.
 
 ---
 
-### 5. Lubuntu 26.04 LTS (Linux Ligero)
+### 6. Lubuntu 26.04 LTS (Linux Ligero)
 * **Link de descarga:** [Descargar ISO de Lubuntu](https://lubuntu.me/downloads/)
 
 ---
 
-### 6. Kali Linux (Ciberseguridad)
+### 7. Kali Linux (Ciberseguridad)
 * **Link de descarga:** [Descargar ISO de Kali Linux](https://www.kali.org/get-kali/#kali-installer-images)
 
 ---
